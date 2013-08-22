@@ -1,0 +1,2 @@
+serviceClass: com.hamaspyur.flower.client.GreetingService
+path: BD756E37D83E0D58914198353E21EF7D.gwt.rpc
